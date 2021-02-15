@@ -1,0 +1,24 @@
+﻿<Window x:Class="ponte.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ponte"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="0,0,-8,-7" Height="426">
+        <Grid.Background>
+            <ImageBrush ImageSource="sfondo.PNG"/>
+        </Grid.Background>
+        <Image HorizontalAlignment="Left" Height="128" Margin="226,116,0,0" VerticalAlignment="Top" Width="318" Source="strada1.PNG" Stretch="UniformToFill"/>
+        <Image HorizontalAlignment="Left" Height="150" Margin="550,116,0,0" VerticalAlignment="Top" Width="250" Source="strada2.PNG" Stretch="UniformToFill"/>
+        <Image HorizontalAlignment="Left" Height="128" Margin="0,116,0,0" VerticalAlignment="Top" Width="242" Source="strada2.PNG" Stretch="UniformToFill"/>
+        <Image HorizontalAlignment="Left" Height="258" Margin="586,45,-132,0" VerticalAlignment="Top" Width="346" Source="macchina1.png"/>
+        <Image HorizontalAlignment="Left" Height="237" Margin="-137,66,0,0" VerticalAlignment="Top" Width="433" Source="macchina2.png"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="142,266,0,0" VerticalAlignment="Top" Width="100" Source="semaforoverde.PNG"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="142,266,0,0" VerticalAlignment="Top" Width="100" Source="semafororosso.PNG" Visibility="Visible"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="550,266,0,0" VerticalAlignment="Top" Width="100" Source="semafororosso.PNG"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="550,266,0,0" VerticalAlignment="Top" Width="100" Source="semaforoverde.PNG"/>
+
+    </Grid>
+</Window>
