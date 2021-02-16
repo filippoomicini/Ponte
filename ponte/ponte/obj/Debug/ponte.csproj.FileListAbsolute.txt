@@ -1,0 +1,15 @@
+C:\Users\filip\Desktop\robe\Ponte\ponte\ponte\bin\Debug\ponte.exe.config
+C:\Users\filip\Desktop\robe\Ponte\ponte\ponte\bin\Debug\ponte.exe
+C:\Users\filip\Desktop\robe\Ponte\ponte\ponte\bin\Debug\ponte.pdb
+C:\Users\filip\Desktop\robe\Ponte\ponte\ponte\obj\Debug\ponte.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\robe\Ponte\ponte\ponte\obj\Debug\MainWindow.g.cs
+C:\Users\filip\Desktop\robe\Ponte\ponte\ponte\obj\Debug\App.g.cs
+C:\Users\filip\Desktop\robe\Ponte\ponte\ponte\obj\Debug\ponte_MarkupCompile.cache
+C:\Users\filip\Desktop\robe\Ponte\ponte\ponte\obj\Debug\ponte_MarkupCompile.lref
+C:\Users\filip\Desktop\robe\Ponte\ponte\ponte\obj\Debug\MainWindow.baml
+C:\Users\filip\Desktop\robe\Ponte\ponte\ponte\obj\Debug\ponte.g.resources
+C:\Users\filip\Desktop\robe\Ponte\ponte\ponte\obj\Debug\ponte.Properties.Resources.resources
+C:\Users\filip\Desktop\robe\Ponte\ponte\ponte\obj\Debug\ponte.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\robe\Ponte\ponte\ponte\obj\Debug\ponte.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\robe\Ponte\ponte\ponte\obj\Debug\ponte.exe
+C:\Users\filip\Desktop\robe\Ponte\ponte\ponte\obj\Debug\ponte.pdb

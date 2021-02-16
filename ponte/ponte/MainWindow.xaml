@@ -13,12 +13,12 @@
         <Image HorizontalAlignment="Left" Height="128" Margin="226,116,0,0" VerticalAlignment="Top" Width="318" Source="strada1.PNG" Stretch="UniformToFill"/>
         <Image HorizontalAlignment="Left" Height="150" Margin="550,116,0,0" VerticalAlignment="Top" Width="250" Source="strada2.PNG" Stretch="UniformToFill"/>
         <Image HorizontalAlignment="Left" Height="128" Margin="0,116,0,0" VerticalAlignment="Top" Width="242" Source="strada2.PNG" Stretch="UniformToFill"/>
-        <Image HorizontalAlignment="Left" Height="258" Margin="586,45,-132,0" VerticalAlignment="Top" Width="346" Source="macchina1.png"/>
-        <Image HorizontalAlignment="Left" Height="237" Margin="-137,66,0,0" VerticalAlignment="Top" Width="433" Source="macchina2.png"/>
-        <Image HorizontalAlignment="Left" Height="100" Margin="142,266,0,0" VerticalAlignment="Top" Width="100" Source="semaforoverde.PNG"/>
-        <Image HorizontalAlignment="Left" Height="100" Margin="142,266,0,0" VerticalAlignment="Top" Width="100" Source="semafororosso.PNG" Visibility="Visible"/>
-        <Image HorizontalAlignment="Left" Height="100" Margin="550,266,0,0" VerticalAlignment="Top" Width="100" Source="semafororosso.PNG"/>
-        <Image HorizontalAlignment="Left" Height="100" Margin="550,266,0,0" VerticalAlignment="Top" Width="100" Source="semaforoverde.PNG"/>
+        <Image x:Name="macchinaA" Margin="10,30,444,138" Source="macchina1.png"/>
+        <Image x:Name="macchinaV" Margin="-140,66,507,123" Source="macchina2.png"/>
+        <Image x:Name="semaforoVerdeV" HorizontalAlignment="Left" Height="100" Margin="142,266,0,0" VerticalAlignment="Top" Width="100" Source="semaforoverde.PNG" Visibility="Hidden"/>
+        <Image x:Name="semaforoRossoV" HorizontalAlignment="Left" Height="100" Margin="142,266,0,0" VerticalAlignment="Top" Width="100" Source="semafororosso.PNG" Visibility="Hidden"/>
+        <Image x:Name="semaforoRossoA" HorizontalAlignment="Left" Height="100" Margin="550,266,0,0" VerticalAlignment="Top" Width="100" Source="semafororosso.PNG" Visibility="Hidden"/>
+        <Image x:Name="semaforoVerdeA" HorizontalAlignment="Left" Height="100" Margin="550,266,0,0" VerticalAlignment="Top" Width="100" Source="semaforoverde.PNG" Visibility="Hidden"/>
 
     </Grid>
 </Window>
